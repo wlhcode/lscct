@@ -33,3 +33,7 @@
 
 # Batch
 *.bat
+
+# Ignored folders
+src/_vjudge/
+.vscode/
